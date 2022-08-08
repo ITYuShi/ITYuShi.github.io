@@ -23,7 +23,7 @@ timezone: Asia/Shanghai
 
 title: IT余识                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 一个热爱编程的IT人士   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: IT余识
   email: it_yushi@163.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:"./assets/img/favicons/mstile-150x150.png"
 
 # boolean type, the global switch for ToC in posts.
 toc: true
