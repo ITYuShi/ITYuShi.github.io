@@ -10,14 +10,8 @@ order: 4
 
 如果对你有所帮助，或者有任何建议，不如来我的公众号或csdn与我交流！
 
-微信公众号：
+微信公众号：IT余识
 
-![微信公众号：IT余识](/assets/img/gzhItYuShi.png)
+csdn：[余识-](https://blog.csdn.net/weixin_50964512?spm=1001.2014.3001.5343 "csdn：余识-")
 
-csdn:
-
-![csdn：余识-](/assets/img/csdnYuShi.png)
-
-当然，你也可以通过github、邮箱等等与我交流！
-
-github与邮箱链接点击页面下方相应的图标即可！
+邮箱：It_YuShi@163.com
