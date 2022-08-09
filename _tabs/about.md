@@ -2,6 +2,7 @@
 title: About
 icon: fas fa-info-circle
 order: 4
+img_path: /assets/img/
 ---
 
 ## 你好！
@@ -12,11 +13,11 @@ order: 4
 
 微信公众号：
 
-![微信公众号：IT余识]("./assets/img/gzhItYuShi.png")
+![微信公众号：IT余识](gzhItYuShi.png)
 
 csdn:
 
-![csdn：余识-]("./assets/img/csdnYuShi.png")
+![csdn：余识-](csdnYuShi.png)
 
 当然，你也可以通过github、邮箱等等与我交流！
 
