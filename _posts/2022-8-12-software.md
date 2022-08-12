@@ -24,5 +24,5 @@ tags: [软件]
 |[Pl](https://www.aliyundrive.com/s/hbgDWE33iQz)|[Pl](https://www.aliyundrive.com/s/2X46rpaDMLn)|[Pl](https://www.aliyundrive.com/s/cibjTHdYrBH)|
 
 
-使用方法：下载后点击运行即可解压，然后点击SetUp程序进行安装即可
+> 使用方法：下载后点击运行即可解压，然后点击SetUp程序进行安装即可
 {: .prompt-info }
