@@ -1,8 +1,8 @@
 ---
-title: 软件
+title: 软件集合
 author: IT余识
 categories: [资源]
-tags: [软件]     
+tags: [软件]
 ---
 
 ## 声明
@@ -27,3 +27,6 @@ tags: [软件]
 > 使用方法：下载后点击运行即可解压，然后点击SetUp程序进行安装即可
 {: .prompt-info }
 
+## 其它常用软件
+
+- [XMind最新版本](/posts/XMind2022)
