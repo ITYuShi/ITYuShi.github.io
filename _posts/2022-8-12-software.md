@@ -30,3 +30,4 @@ tags: [软件]
 ## 其它常用软件
 
 - [XMind最新版本](/posts/XMind2022)
+- [x96Dbg(2022-8-8发布)](https://www.aliyundrive.com/s/qPpd3HYhm63)
