@@ -107,10 +107,20 @@
   {% endif %}
 
   <!-- JavaScript -->
+  <script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?5b622ad823ca8e91fa69c2aafdfe0060";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+  </script>
 
   <script src="{{ site.data.assets[origin].jquery.js | relative_url }}"></script>
 
   {% unless site.theme_mode %}
     {% include mode-toggle.html %}
   {% endunless %}
+
 </head>
