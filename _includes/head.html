@@ -107,6 +107,13 @@
   {% endif %}
 
   <!-- JavaScript -->
+
+  <script src="{{ site.data.assets[origin].jquery.js | relative_url }}"></script>
+
+  {% unless site.theme_mode %}
+    {% include mode-toggle.html %}
+  {% endunless %}
+
   <script>
   var _hmt = _hmt || [];
   (function() {
@@ -116,11 +123,5 @@
     s.parentNode.insertBefore(hm, s);
   })();
   </script>
-
-  <script src="{{ site.data.assets[origin].jquery.js | relative_url }}"></script>
-
-  {% unless site.theme_mode %}
-    {% include mode-toggle.html %}
-  {% endunless %}
 
 </head>
