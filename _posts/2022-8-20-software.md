@@ -5,6 +5,7 @@ categories: [资源]
 tags: [软件]
 ---
 
+
 ## 声明
 
 本文所涉及的所有软件，均为网络收集，如有侵权，可通过邮箱<It_YuShi@163.com>联系我进行处理
@@ -15,6 +16,15 @@ tags: [软件]
 
 > 本网站资源基本都采用阿里网盘分享，多数资源转化为了exe自释放程序，无任何病毒，双击运行即可解压
 {: .prompt-info }
+
+## 广告
+
+{% for post in site.data.poster %}
+
+<li>{{ post.ad }}</li>
+
+{% endfor %}
+
 
 ## adobe 全家桶
 
