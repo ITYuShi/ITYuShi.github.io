@@ -45,6 +45,7 @@ tags: [软件]
 ## 其它常用软件
 
 - [XMind最新版本](/posts/XMind2022) :一款强大的思维导图软件
-- [x96Dbg(2022-8-8发布)](https://www.aliyundrive.com/s/qPpd3HYhm63)：一款强大的逆向工具
-- [uTools](https://u.tools/)：一款强大的工具集，可极大的提高工作效率
+- [x96dbg](https://sourceforge.net/projects/x64dbg/files/snapshots/)：一款强大的动态逆向工具
+- [IDA_Pro(7.7)](https://www.aliyundrive.com/s/HNoCC1PXrxR)：一款强大的静态逆向工具
+- [uTools](https://u.tools/)：一款强大的桌面工具集，可极大的提高工作效率
 - [staruml](https://blog.csdn.net/weixin_50964512/article/details/124365042)：一款强大的统一建模语言实现工具
