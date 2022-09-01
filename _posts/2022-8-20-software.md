@@ -49,3 +49,4 @@ tags: [软件]
 - [IDA_Pro(7.7)](https://www.aliyundrive.com/s/HNoCC1PXrxR)：一款强大的静态逆向工具
 - [uTools](https://u.tools/)：一款强大的桌面工具集，可极大的提高工作效率
 - [staruml](https://blog.csdn.net/weixin_50964512/article/details/124365042)：一款强大的统一建模语言实现工具
+- [IDM](https://www.aliyundrive.com/s/pry7S6ff52D)：一款强大的下载工具，可自动捕获网页链接等等
