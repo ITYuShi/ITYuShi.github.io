@@ -17,7 +17,7 @@ tags: [软件]
 > 本网站资源基本都采用阿里网盘分享，多数资源转化为了exe自释放程序，无任何病毒，双击运行即可解压
 {: .prompt-info }
 
-## 广告
+## 教程推荐
 
 {% for post in site.data.poster %}
 
