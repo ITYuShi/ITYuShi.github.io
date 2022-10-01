@@ -42,7 +42,7 @@ tags: [软件]
 > 使用方法：下载后点击运行即可解压，然后点击SetUp程序进行安装即可
 {: .prompt-info }
 
-## 其它常用软件
+## 强大软件
 
 - [XMind最新版本](/posts/XMind2022) :一款强大的思维导图软件
 - [x96dbg](https://sourceforge.net/projects/x64dbg/files/snapshots/)：一款强大的动态逆向工具
@@ -52,3 +52,7 @@ tags: [软件]
 - [IDM](https://www.aliyundrive.com/s/pry7S6ff52D)：一款强大的下载工具，可自动捕获网页链接等等
 - [Typora](https://typoraio.cn/),补丁[下载](https://www.aliyundrive.com/s/UsM3jxCFyoM):使用方法,将补丁复制到安装目录即可(与exe同目录),目前1.4.4版本可正常使用
 - [UltraEdit](https://www.aliyundrive.com/s/K8QcLLtT55z): 一款不仅仅只用于编辑的强大编辑软件
+
+## 其它软件
+
+- [图片画质增强器](https://www.aliyundrive.com/s/zUsiPV3kXxR)
