@@ -1,1 +1,1 @@
-博客已转移至：http://www.ityushi.cn
+博客已转移至：http://ityushi.cn/
