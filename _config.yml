@@ -23,13 +23,13 @@ timezone: Asia/Shanghai
 
 title: IT余识                          # the main title
 
-tagline: 一个热爱编程的IT人士   # it will display as the sub-title
+tagline: 以更换博客：http://ityushi.cn   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ityushi.github.io'
+url: 'http://ityushi.cn'
 
 github:
   username: ItYuShi             # change to your github username
